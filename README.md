@@ -1,4 +1,4 @@
 # command-Git
 commands
 
-![Git Logo](Git-Logo-White.png)
+![Git Logo](Git-Logo-1788C.png)
