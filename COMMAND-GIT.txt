@@ -1,7 +1,8 @@
 # create local repositry
 $mkdir senior
 -----------------------------------------------------------------------------------------------------------------------------
-$git init ======= ده بيخلى الفولدر local repositry
+#created local repositry
+$git init 
 -----------------------------------------------------------------------------------------------------------------------------
 $git config --global user.name "mahoud magdy"
 $git config --global user.mail "email"
